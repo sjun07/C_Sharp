@@ -1,0 +1,16 @@
+D:\C#\10415이승준2\bin\Debug\net5.0\10415이승준2.exe
+D:\C#\10415이승준2\bin\Debug\net5.0\10415이승준2.deps.json
+D:\C#\10415이승준2\bin\Debug\net5.0\10415이승준2.runtimeconfig.json
+D:\C#\10415이승준2\bin\Debug\net5.0\10415이승준2.runtimeconfig.dev.json
+D:\C#\10415이승준2\bin\Debug\net5.0\10415이승준2.dll
+D:\C#\10415이승준2\bin\Debug\net5.0\ref\10415이승준2.dll
+D:\C#\10415이승준2\bin\Debug\net5.0\10415이승준2.pdb
+D:\C#\10415이승준2\obj\Debug\net5.0\10415이승준2.csproj.AssemblyReference.cache
+D:\C#\10415이승준2\obj\Debug\net5.0\10415이승준2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\10415이승준2\obj\Debug\net5.0\10415이승준2.AssemblyInfoInputs.cache
+D:\C#\10415이승준2\obj\Debug\net5.0\10415이승준2.AssemblyInfo.cs
+D:\C#\10415이승준2\obj\Debug\net5.0\10415이승준2.csproj.CoreCompileInputs.cache
+D:\C#\10415이승준2\obj\Debug\net5.0\10415이승준2.dll
+D:\C#\10415이승준2\obj\Debug\net5.0\ref\10415이승준2.dll
+D:\C#\10415이승준2\obj\Debug\net5.0\10415이승준2.pdb
+D:\C#\10415이승준2\obj\Debug\net5.0\10415이승준2.genruntimeconfig.cache
